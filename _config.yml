@@ -14,7 +14,7 @@ tagline:          'Heating brands from the inside out.'
 description:      'A boutique London-based web-design and development agency setup by <a href="http://www.alexchin.co.uk" title="Alex Chin">Alex Chin</a>, <a href="http://problemsolvedux.com/" title="Andrew Wills">Andrew Wills</a> and <a href="http://fa-designer.com/" title="Fernando Amschlinger">Fernando Amschlinger</a>.'
 url:              http://localhost:4000/
 # baseurl:          http://localhost:4000/
-paginate:         5
+paginate:         1
 
 author:
   name:           'Alex Chin'
