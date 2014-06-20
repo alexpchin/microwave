@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Microwave Media</title>
+ <link href="http://localhost:4000//atom.xml" rel="self"/>
+ <link href="http://localhost:4000//"/>
+ <updated>2014-06-11T14:00:06+01:00</updated>
+ <id>http://localhost:4000/</id>
+ <author>
+   <name>Alex Chin</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Shh... Microwave Ltd is sleeping.</title>
+   <link href="http://localhost:4000//2014/01/02/introducing-lanyon.html"/>
+   <updated>2014-01-02T00:00:00+00:00</updated>
+   <id>http://localhost:4000//2014/01/02/introducing-lanyon</id>
+   <content type="html">&lt;p class=&quot;message&quot;&gt;
+  Microwave was a boutique London-based web-design and development agency setup by &lt;a href=&quot;http://www.alexchin.co.uk&quot; title=&quot;Alex Chin&quot;&gt;Alex Chin&lt;/a&gt;, &lt;a href=&quot;http://problemsolvedux.com/&quot; title=&quot;Andrew Wills&quot;&gt;Andrew Wills&lt;/a&gt; and &lt;a href=&quot;http://fa-designer.com/&quot; title=&quot;Fernando Amschlinger&quot;&gt;Fernando Amschlinger&lt;/a&gt;.
+&lt;/p&gt; 
+
+&lt;p&gt;We worked on some really great projects with some fantastic clients including making the first website for &amp;quot;The New Choo&amp;quot; &lt;a href=&quot;http://en.wikipedia.org/wiki/Beatrix_Ong&quot;&gt;Beatrix Ong&lt;/a&gt;, helping &lt;a href=&quot;http://www.cafemamboibiza.com/&quot;&gt;Cafe Mambo Ibiza&lt;/a&gt; launch their social media profiles (which now have over 300,000 fans and followers), helping &lt;a href=&quot;http://jadejagger.co.uk/&quot;&gt;Jade Jagger&lt;/a&gt; to make more friends on Facebook, building websites for &lt;a href=&quot;http://www.arts.ac.uk/&quot;&gt;University of the Arts London&lt;/a&gt;, &lt;a href=&quot;http://www.hepctrust.org.uk/&quot;&gt;The Hepatitis C Trust&lt;/a&gt; and creating innovative new platforms like &lt;a href=&quot;http://www.ibizavote.com&quot;&gt;Ibiza Vote&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Microwave team has now moved on to bigger and better things, perhaps not forever but certainly for the near future. &lt;/p&gt;
+
+&lt;p&gt;Here is a little update with what we are all up to:&lt;/p&gt;
+
+&lt;h3&gt;Alex&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Attended &lt;a href=&quot;https://generalassemb.ly/london&quot;&gt;General Assembly&lt;/a&gt; and is now a full stack web developer.&lt;/li&gt;
+&lt;li&gt;Started &lt;a href=&quot;http://www.womapp.com&quot;&gt;Womapp.com&lt;/a&gt; a social shopping website with over 3.5million products.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Andrew&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Took a job as Head of User Experience at &lt;a href=&quot;http://www.elviscommunications.com/&quot;&gt;Elvis&lt;/a&gt; where he worked with clients like Sky, Honda Motor Europe, Premier Foods, Yakult, Virgin Holidays, Auto Trader, Virgin Trains, Vodafone, Sailor Jerry, Bacardi, Dr Oetker, Cadbury. Phew!&lt;/li&gt;
+&lt;li&gt;Ran a marathon, visit his &lt;a href=&quot;http://www.challengeandi.com/&quot;&gt;marathon micro-site&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Got engaged to Kelly!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Fernando&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fernando has now moved back to Brazil where he setup &lt;a href=&quot;http://agenciaalive.com/&quot;&gt;Agência Alive&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks to all our clients and friends who made setting up Microwave such fun! With a special thanks to the Peppe family for letting us &lt;a href=&quot;http://www.ibizavillas2000.com/&quot;&gt;stay in Ibiza&lt;/a&gt; whenever we needed!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

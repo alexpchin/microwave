@@ -1,38 +1,32 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Shh... Microwave Ltd is sleeping.
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+<p class="message">
+  Microwave was a boutique London-based web-design and development agency setup by <a href="http://www.alexchin.co.uk" title="Alex Chin">Alex Chin</a>, <a href="http://problemsolvedux.com/" title="Andrew Wills">Andrew Wills</a> and <a href="http://fa-designer.com/" title="Fernando Amschlinger">Fernando Amschlinger</a>.
+</p> 
 
-### Built on Poole
+We worked on some really great projects with some fantastic clients including making the first website for "The New Choo" [Beatrix Ong](http://en.wikipedia.org/wiki/Beatrix_Ong), helping [Cafe Mambo Ibiza](http://www.cafemamboibiza.com/) launch their social media profiles (which now have over 300,000 fans and followers), helping [Jade Jagger](http://jadejagger.co.uk/) to make more friends on Facebook, building websites for [University of the Arts London](http://www.arts.ac.uk/), [The Hepatitis C Trust](http://www.hepctrust.org.uk/) and creating innovative new platforms like [Ibiza Vote](http://www.ibizavote.com).
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+The Microwave team has now moved on to bigger and better things, perhaps not forever but certainly for the near future. 
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+Here is a little update with what we are all up to:
 
-### Lanyon features
+### Alex
 
-In addition to the features of Poole, Lanyon adds the following:
+* Attended [General Assembly](https://generalassemb.ly/london) and is now a full stack web developer.
+* Started [Womapp.com](http://www.womapp.com) a social shopping website with over 3.5million products.
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+### Andrew
 
-### Browser support
+* Took a job as Head of User Experience at [Elvis](http://www.elviscommunications.com/) where he worked with clients like Sky, Honda Motor Europe, Premier Foods, Yakult, Virgin Holidays, Auto Trader, Virgin Trains, Vodafone, Sailor Jerry, Bacardi, Dr Oetker, Cadbury. Phew!
+* Ran a marathon, visit his [marathon micro-site](http://www.challengeandi.com/).
+* Got engaged to Kelly!
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+### Fernando
 
-### Download
+* Fernando has now moved back to Brazil where he setup [Agência Alive](http://agenciaalive.com/).
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Thanks to all our clients and friends who made setting up Microwave such fun! With a special thanks to the Peppe family for letting us [stay in Ibiza](http://www.ibizavillas2000.com/) whenever we needed!
