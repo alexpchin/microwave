@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
     blankslate (2.1.2.4)
@@ -28,6 +28,9 @@ GEM
       redcarpet (~> 3.1)
       safe_yaml (~> 1.0)
       toml (~> 0.1.0)
+    jekyll-asset-pipeline (0.1.2)
+      jekyll (>= 0.10.0)
+      liquid (>= 1.9.0)
     jekyll-coffeescript (1.0.0)
       coffee-script (~> 2.2)
     jekyll-sass-converter (1.0.0)
@@ -62,3 +65,4 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   jekyll
+  jekyll-asset-pipeline

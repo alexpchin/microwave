@@ -28,3 +28,8 @@ github:
 
 blogs:
  alex:            http://www.alexchin.co.uk
+
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
+  cache: true
